@@ -30,8 +30,8 @@ Monitoring Suhu dan Kelembaban secara Realtime dengan Bot Discord
 ## 📥 Instalasi Cepat
 1. **Fork / clone repo ini**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/discord-dht-monitor.git
-   cd discord-dht-monitor
+   git clone https://github.com/Sabian519/Discord-DHT-Monitoring.git
+   cd Discord-DHT-Monitoring
    ```
 
 2. **Install Arduino IDE**  
@@ -39,7 +39,7 @@ Monitoring Suhu dan Kelembaban secara Realtime dengan Bot Discord
    - Library **DHT sensor** → Library Manager → cari **“DHT sensor library”**
 
 3. **Upload sketch**
-   - Buka `discord_dht_monitor.ino`
+   - Buka `Discord-DHT11.ino`
    - Sesuaikan **konfigurasi** (lihat bagian 🔧 di bawah)
    - **Upload** ke board.
 
